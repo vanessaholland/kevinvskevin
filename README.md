@@ -1,4 +1,4 @@
-## A friendly neighborhood Indepence Day battle 
+## A friendly neighborhood Independence  Day battle 
 
 You choose a winner!
 
