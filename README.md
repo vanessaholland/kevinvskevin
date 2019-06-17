@@ -2,7 +2,7 @@
 
 You choose a winner!
 
-![explosionsinthesky](https://github.com/vanessaholland/kevinvskevin/_assets/images/explosionsinthesky.png)
+![explosionsinthesky](./_assets/images/explosionsinthesky.png)
 
 
 ### Vote Here
