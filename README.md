@@ -2,7 +2,7 @@
 
 You choose a winner!
 
-![explosionsinthesky](./_assets/images/explosionsinthesky.png)
+![explosionsinthesky](./assets/images/explosionsinthesky.png)
 
 
 ### Vote Here
