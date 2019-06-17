@@ -1,6 +1,9 @@
-## A friendly neighborhood Independence  Day battle 
+## A friendly neighborhood Independence  Day battle
 
 You choose a winner!
+
+![explosionsinthesky](https://github.com/vanessaholland/kevinvskevin/_assets/images/explosionsinthesky.png)
+
 
 ### Vote Here
 
