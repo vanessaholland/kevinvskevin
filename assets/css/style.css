@@ -445,7 +445,7 @@ Full-Width Styles
   border-bottom-right-radius: 2px; }
 
 #header_wrap {
-  background-image: url(../images/hero.png) no-repeat center center fixed; 
+  background: url(../images/hero.png) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
